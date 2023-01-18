@@ -25,3 +25,17 @@ p,
 li {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+a {
+	text-decoration: none;
+	color: burlywood;
+}
+
+a:visited {
+	text-decoration: none;
+	color: burlywood;
+}
+
+a:hover {
+	color: brown;
+}
